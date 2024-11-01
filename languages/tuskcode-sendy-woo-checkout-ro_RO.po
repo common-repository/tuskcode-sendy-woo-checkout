@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TuskCode's Checkout for Sendy on WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-07 20:12+0000\n"
+"PO-Revision-Date: 2023-02-07 20:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: tuskcode-sendy-woo-checkout"
+
+#: includes/class-integ-sendy-checkout.php:136
+msgid "1 FREE"
+msgstr "1 GRATUIT"
+
+#: includes/class-integ-sendy-checkout.php:226
+msgid "2 PREMIUM"
+msgstr "2 PREMIUM"
+
+#: includes/class-integ-sendy-checkout.php:290
+msgid "3 PREMIUM"
+msgstr "3 PREMIUM"
+
+#: includes/class-integ-sendy-checkout.php:353
+msgid "4 PREMIUM"
+msgstr "4 PREMIUM"
+
+#: includes/class-integ-sendy-checkout.php:415
+msgid "5 PREMIUM"
+msgstr "5 PREMIUM"
+
+#: includes/class-integ-sendy-checkout.php:144
+msgid "Active List 1 "
+msgstr "Lista activă 1"
+
+#: includes/class-integ-sendy-checkout.php:234
+msgid "Active List 2 (Premium)"
+msgstr "Lista activă 2 (Premium)"
+
+#: includes/class-integ-sendy-checkout.php:298
+msgid "Active List 3 (Premium)"
+msgstr "Lista activă 3 (Premium)"
+
+#: includes/class-integ-sendy-checkout.php:361
+msgid "Active List 4 (Premium)"
+msgstr "Lista activă 4 (Premium)"
+
+#: includes/class-integ-sendy-checkout.php:423
+msgid "Active List 5 (Premium)"
+msgstr "Lista activă 5 (Premium)"
+
+#: includes/class-integ-sendy-checkout.php:156
+#: includes/class-integ-sendy-checkout.php:246
+#: includes/class-integ-sendy-checkout.php:310
+#: includes/class-integ-sendy-checkout.php:373
+msgid "Add ID of your Sendy list"
+msgstr "Adăugați ID-ul listei Sendy"
+
+#: includes/class-integ-sendy-checkout.php:435
+msgid "Add ID of your Sendy list (5)"
+msgstr "Adăugați ID-ul listei Sendy (5)"
+
+#: includes/class-integ-sendy-checkout.php:130
+msgid "Add your Sendy API Key"
+msgstr "Adăugați cheia API de la Sendy"
+
+#: includes/class-integ-sendy-checkout.php:493
+msgid "After Billing Form"
+msgstr "După Formularul de facturare"
+
+#: includes/class-integ-sendy-checkout.php:511
+msgid "After Checkout Form"
+msgstr "Formularul după checkout"
+
+#: includes/class-integ-sendy-checkout.php:498
+msgid "After Customer Details"
+msgstr "După detaliile clientului"
+
+#: includes/class-integ-sendy-checkout.php:497
+msgid "After Order Notes"
+msgstr "După notele de comandă"
+
+#: includes/class-integ-sendy-checkout.php:510
+msgid "After Order Review"
+msgstr "După revizuirea comenzii"
+
+#: includes/class-integ-sendy-checkout.php:482
+msgid "After Order Table"
+msgstr "După masa de comandă"
+
+#: includes/class-integ-sendy-checkout.php:501
+msgid "After Review Cart Contents"
+msgstr "După revizuirea conținutului coșului de cumpărături"
+
+#: includes/class-integ-sendy-checkout.php:505
+msgid "After Review Order Total"
+msgstr "După revizuire Total comandă"
+
+#: includes/class-integ-sendy-checkout.php:509
+msgid "After Review Payment"
+msgstr "După revizuire Plata"
+
+#: includes/class-integ-sendy-checkout.php:503
+msgid "After Review Shipping"
+msgstr "După revizuire Transport maritim"
+
+#: includes/class-integ-sendy-checkout.php:508
+msgid "After Review Submit"
+msgstr "După revizuire Trimiteți"
+
+#: includes/class-integ-sendy-checkout.php:495
+msgid "After Shipping Form"
+msgstr "După Formularul de expediere"
+
+#: includes/class-integ-sendy-checkout.php:492
+msgid "Before Billing Form"
+msgstr "Înainte de formularul de facturare"
+
+#: includes/class-integ-sendy-checkout.php:490
+msgid "Before Checkout Form"
+msgstr "Înainte de formularul de checkout"
+
+#: includes/class-integ-sendy-checkout.php:491
+msgid "Before Customer Details"
+msgstr "Înainte de Detalii client"
+
+#: includes/class-integ-sendy-checkout.php:496
+msgid "Before Order Notes"
+msgstr "Înainte de a comanda Note"
+
+#: includes/class-integ-sendy-checkout.php:499
+msgid "Before Order Review"
+msgstr "Înainte de revizuirea comenzii"
+
+#: includes/class-integ-sendy-checkout.php:481
+msgid "Before Order Table"
+msgstr "Înainte de masă de comandă"
+
+#: includes/class-integ-sendy-checkout.php:500
+msgid "Before Review Cart Contents"
+msgstr "Înainte de a revizui conținutul coșului"
+
+#: includes/class-integ-sendy-checkout.php:504
+msgid "Before Review Order Total"
+msgstr "Înainte de revizuire Comandă Total"
+
+#: includes/class-integ-sendy-checkout.php:506
+msgid "Before Review Payment"
+msgstr "Înainte de revizuire Plata"
+
+#: includes/class-integ-sendy-checkout.php:502
+msgid "Before Review Shipping"
+msgstr "Înainte de a revizui transportul maritim"
+
+#: includes/class-integ-sendy-checkout.php:507
+msgid "Before Review Submit"
+msgstr "Înainte de revizuire Trimiteți"
+
+#: includes/class-integ-sendy-checkout.php:494
+msgid "Before Shipping Form"
+msgstr "Formularul înainte de expediere"
+
+#: includes/class-integ-sendy-checkout.php:181
+msgid "Checkbox Label (1)"
+msgstr "Etichetă pentru caseta de verificare (1)"
+
+#: includes/class-integ-sendy-checkout.php:282
+#: includes/class-integ-sendy-checkout.php:346
+#: includes/class-integ-sendy-checkout.php:409
+#: includes/class-integ-sendy-checkout.php:471
+msgid "Checkbox shown on checkout page"
+msgstr "Caseta de selectare afișată pe pagina de checkout"
+
+#: includes/class-integ-sendy-checkout.php:185
+msgid "Checkbox shown on checkout page, after Terms&Conditions"
+msgstr ""
+"Caseta de selectare afișată pe pagina de checkout, după Termeni și condiții"
+
+#: includes/class-integ-sendy-checkout.php:278
+msgid "Checkout Checkbox Label (2)"
+msgstr "Etichetă pentru caseta de verificare a comenzii (2)"
+
+#: includes/class-integ-sendy-checkout.php:342
+msgid "Checkout Checkbox Label (3)"
+msgstr "Etichetă pentru caseta de verificare a comenzii (3)"
+
+#: includes/class-integ-sendy-checkout.php:405
+msgid "Checkout Checkbox Label (4)"
+msgstr "Etichetă pentru caseta de verificare a comenzii (4)"
+
+#: includes/class-integ-sendy-checkout.php:467
+msgid "Checkout Checkbox Label (5)"
+msgstr "Etichetă pentru caseta de verificare a comenzii (5)"
+
+#. Author of the plugin
+msgid "dan009"
+msgstr "dan009"
+
+#: includes/class-integ-sendy-checkout.php:173
+msgid "Default Checkbox Value (1)"
+msgstr "Valoarea implicită a căsuței de selectare (1)"
+
+#: includes/class-integ-sendy-checkout.php:270
+msgid "Default Checkbox Value (2)"
+msgstr "Valoarea implicită a căsuței de selectare (2)"
+
+#: includes/class-integ-sendy-checkout.php:334
+msgid "Default Checkbox Value (3)"
+msgstr "Valoarea implicită a căsuței de selectare (3)"
+
+#: includes/class-integ-sendy-checkout.php:397
+msgid "Default Checkbox Value (4)"
+msgstr "Valoarea implicită a căsuței de selectare (4)"
+
+#: includes/class-integ-sendy-checkout.php:459
+msgid "Default Checkbox Value (5)"
+msgstr "Valoarea implicită a căsuței de selectare (5)"
+
+#: includes/class-integ-sendy-checkout.php:480
+msgid "Do not show in email"
+msgstr "Nu se afișează în e-mail"
+
+#. URI of the plugin
+msgid "http://tuskcode.com"
+msgstr "http://tuskcode.com"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/dan009/"
+msgstr "https://profiles.wordpress.org/dan009/"
+
+#: includes/class-integ-sendy-checkout.php:202
+msgid "License number provided when buying the premium"
+msgstr "Numărul de licență furnizat la cumpărarea primei"
+
+#: includes/class-integ-sendy-checkout.php:379
+#: includes/class-integ-sendy-checkout.php:441
+msgid "List Four"
+msgstr "Lista patru"
+
+#: includes/class-integ-sendy-checkout.php:316
+msgid "List Three"
+msgstr "Lista trei"
+
+#: includes/class-integ-sendy-checkout.php:252
+msgid "List Two"
+msgstr "Lista doi"
+
+#: includes/class-integ-sendy-checkout.php:82
+#: includes/class-integ-sendy-checkout.php:96
+msgid "Plugin Additional Links"
+msgstr "Plugin Link-uri suplimentare"
+
+#: includes/class-integ-sendy-checkout.php:161
+msgid "Position at Checkout Page (1)"
+msgstr "Poziția la pagina de plată (1)"
+
+#: includes/class-integ-sendy-checkout.php:258
+msgid "Position at Checkout Page (2)"
+msgstr "Poziția la pagina de plată (2)"
+
+#: includes/class-integ-sendy-checkout.php:322
+msgid "Position at Checkout Page (3)"
+msgstr "Poziția la pagina de plată (3)"
+
+#: includes/class-integ-sendy-checkout.php:385
+msgid "Position at Checkout Page (4)"
+msgstr "Poziția la pagina de plată (4)"
+
+#: includes/class-integ-sendy-checkout.php:447
+msgid "Position at Checkout Page (5)"
+msgstr "Poziția la pagina de plată (5)"
+
+#: includes/class-integ-sendy-checkout.php:190
+#, php-format
+msgid "Premium at %s"
+msgstr "Prima la %s"
+
+#: includes/class-integ-sendy-checkout.php:452
+msgid ""
+"Select where you want the checkbox to show at the checkout page,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tIf your theme is overriding the WooCommerce "
+"templates then it's\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tpossible that these hooks could be missing, or "
+"placed in a slightly different position.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"Selectați locul în care doriți să se afișeze caseta de selectare pe pagina "
+"de plată,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tÎn cazul în care tema dvs. suprascrie șabloanele "
+"WooCommerce, atunci este\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tposibil ca aceste cârlige să lipsească sau să fie "
+"plasate într-o poziție ușor diferită.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+
+#: includes/class-integ-sendy-checkout.php:166
+#: includes/class-integ-sendy-checkout.php:263
+#: includes/class-integ-sendy-checkout.php:327
+#: includes/class-integ-sendy-checkout.php:390
+msgid ""
+"Select where you want the checkbox to show at the checkout page,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tIf your theme is overriding the WooCommerce "
+"templates then it's\n"
+"\t\t\t\t\t\t \t\t\t\t\t\tpossible that these hooks could be missing, or "
+"placed in a slightly different position.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"Selectați locul în care doriți să se afișeze caseta de selectare pe pagina "
+"de plată,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tÎn cazul în care tema dvs. suprascrie șabloanele "
+"WooCommerce, atunci este\n"
+"\t\t\t\t\t\t \t\t\t\t\t\tposibil ca aceste cârlige să lipsească sau să fie "
+"plasate într-o poziție ușor diferită.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+
+#: includes/class-integ-sendy-checkout.php:125
+msgid "Sendy API Key"
+msgstr "Cheia API Sendy"
+
+#: includes/class-integ-sendy-checkout.php:152
+msgid "Sendy List ID 1 (As in Sendy)"
+msgstr "Sendy List ID 1 (ca în Sendy)"
+
+#: includes/class-integ-sendy-checkout.php:242
+msgid "Sendy List ID 2"
+msgstr "Sendy List ID 2"
+
+#: includes/class-integ-sendy-checkout.php:306
+msgid "Sendy List ID 3"
+msgstr "Sendy List ID 3"
+
+#: includes/class-integ-sendy-checkout.php:369
+msgid "Sendy List ID 4"
+msgstr "Sendy List ID 4"
+
+#: includes/class-integ-sendy-checkout.php:431
+msgid "Sendy List ID 5"
+msgstr "Sendy List ID 5"
+
+#: includes/class-integ-sendy-checkout.php:250
+msgid "Sendy List Name - Admin (2)"
+msgstr "Sendy List Name - Admin (2)"
+
+#: includes/class-integ-sendy-checkout.php:314
+msgid "Sendy List Name - Admin (3)"
+msgstr "Sendy List Name - Admin (3)"
+
+#: includes/class-integ-sendy-checkout.php:377
+msgid "Sendy List Name - Admin (4)"
+msgstr "Sendy List Name - Admin (4)"
+
+#: includes/class-integ-sendy-checkout.php:439
+msgid "Sendy List Name - Admin (5)"
+msgstr "Numele listei Sendy - Admin (5)"
+
+#: includes/class-integ-sendy-checkout.php:254
+#: includes/class-integ-sendy-checkout.php:318
+#: includes/class-integ-sendy-checkout.php:381
+#: includes/class-integ-sendy-checkout.php:443
+msgid "Sendy List Name for Wordpress Reference "
+msgstr "Sendy Lista de nume pentru referință Wordpress"
+
+#: includes/class-integ-sendy-checkout.php:116
+msgid "Sendy URL"
+msgstr "Sendy URL"
+
+#: includes/class-integ-sendy-checkout.php:83
+#: includes/class-integ-sendy-checkout.php:97
+msgid "Settings"
+msgstr "Setări"
+
+#: includes/class-integ-sendy-checkout.php:211
+msgid ""
+"Show checked options in the email for customer records\n"
+"\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"Afișarea opțiunilor bifate în e-mail pentru înregistrările clienților\n"
+"\t\t\t\t\t\t\t\t\t\t"
+
+#: includes/class-integ-sendy-checkout.php:220
+msgid ""
+"Show options in the thank you page in the same format as in the email "
+"template"
+msgstr ""
+"Afișați opțiunile în pagina de mulțumire în același format ca în șablonul de "
+"e-mail"
+
+#: includes/class-integ-sendy-checkout.php:206
+msgid ""
+"Show Selected / Unselected Options in Customer Order Email - *** PREMIUM ***"
+msgstr ""
+"Afișarea opțiunilor selectate / neselectate în e-mailul de comandă al "
+"clientului - *** PREMIUM ***"
+
+#: includes/class-integ-sendy-checkout.php:216
+msgid ""
+"Show the selected / unselected options in the Thank You page - *** PREMIUM "
+"***"
+msgstr ""
+"Afișarea opțiunilor selectate / neselectate în pagina de mulțumire - *** "
+"PREMIUM ***"
+
+#. Description of the plugin
+msgid "Subscribe users to Sendy list from Woocommerce Checkout page"
+msgstr ""
+"Abonează utilizatorii la lista Sendy din pagina de plată Woocommerce Checkout"
+
+#: includes/class-integ-sendy-checkout.php:18
+msgid "Subscribe users to Sendy Newsletter from Woo Checkout Page"
+msgstr ""
+"Abonează utilizatorii la Sendy Newsletter din pagina de plată Woo Checkout"
+
+#: includes/class-integ-sendy-checkout.php:198
+msgid "Tuskcode License for Premium"
+msgstr "Licență Tuskcode pentru Premium"
+
+#. Name of the plugin
+#: includes/class-integ-sendy-checkout.php:17
+msgid "TuskCode's Checkout for Sendy on WooCommerce"
+msgstr "TuskCode's Checkout pentru Sendy pe WooCommerce"
+
+#: includes/class-integ-sendy-checkout.php:118
+msgid "URL of your Sendy installation"
+msgstr "URL-ul instalației Sendy"
+
+#: includes/class-integ-sendy-checkout.php:146
+#: includes/class-integ-sendy-checkout.php:218
+#: includes/class-integ-sendy-checkout.php:236
+#: includes/class-integ-sendy-checkout.php:300
+#: includes/class-integ-sendy-checkout.php:363
+#: includes/class-integ-sendy-checkout.php:425
+msgid "Yes / No"
+msgstr "Da / Nu"

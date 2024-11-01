@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TuskCode's Checkout for Sendy on WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-07 20:12+0000\n"
+"PO-Revision-Date: 2023-02-07 20:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Ecuador)\n"
+"Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: tuskcode-sendy-woo-checkout"
+
+#: includes/class-integ-sendy-checkout.php:136
+msgid "1 FREE"
+msgstr "1 GRATIS"
+
+#: includes/class-integ-sendy-checkout.php:226
+msgid "2 PREMIUM"
+msgstr "2 PREMIUM"
+
+#: includes/class-integ-sendy-checkout.php:290
+msgid "3 PREMIUM"
+msgstr "3 PREMIUM"
+
+#: includes/class-integ-sendy-checkout.php:353
+msgid "4 PREMIUM"
+msgstr "4 PREMIUM"
+
+#: includes/class-integ-sendy-checkout.php:415
+msgid "5 PREMIUM"
+msgstr "5 PREMIUM"
+
+#: includes/class-integ-sendy-checkout.php:144
+msgid "Active List 1 "
+msgstr "Lista activa 1"
+
+#: includes/class-integ-sendy-checkout.php:234
+msgid "Active List 2 (Premium)"
+msgstr "Lista activa 2 (Premium)"
+
+#: includes/class-integ-sendy-checkout.php:298
+msgid "Active List 3 (Premium)"
+msgstr "Lista activa 3 (Premium)"
+
+#: includes/class-integ-sendy-checkout.php:361
+msgid "Active List 4 (Premium)"
+msgstr "Lista activa 4 (Premium)"
+
+#: includes/class-integ-sendy-checkout.php:423
+msgid "Active List 5 (Premium)"
+msgstr "Lista activa 5 (Premium)"
+
+#: includes/class-integ-sendy-checkout.php:156
+#: includes/class-integ-sendy-checkout.php:246
+#: includes/class-integ-sendy-checkout.php:310
+#: includes/class-integ-sendy-checkout.php:373
+msgid "Add ID of your Sendy list"
+msgstr "Añadir ID de su lista Sendy"
+
+#: includes/class-integ-sendy-checkout.php:435
+msgid "Add ID of your Sendy list (5)"
+msgstr "Añadir ID de su lista Sendy (5)"
+
+#: includes/class-integ-sendy-checkout.php:130
+msgid "Add your Sendy API Key"
+msgstr "Añada su clave API Sendy"
+
+#: includes/class-integ-sendy-checkout.php:493
+msgid "After Billing Form"
+msgstr "Después de la facturación"
+
+#: includes/class-integ-sendy-checkout.php:511
+msgid "After Checkout Form"
+msgstr "Formulario de pago"
+
+#: includes/class-integ-sendy-checkout.php:498
+msgid "After Customer Details"
+msgstr "Después de Datos del cliente"
+
+#: includes/class-integ-sendy-checkout.php:497
+msgid "After Order Notes"
+msgstr "Notas de pedido"
+
+#: includes/class-integ-sendy-checkout.php:510
+msgid "After Order Review"
+msgstr "Tras la revisión del pedido"
+
+#: includes/class-integ-sendy-checkout.php:482
+msgid "After Order Table"
+msgstr "Tabla de pedidos posteriores"
+
+#: includes/class-integ-sendy-checkout.php:501
+msgid "After Review Cart Contents"
+msgstr "Después de revisar el contenido del carro"
+
+#: includes/class-integ-sendy-checkout.php:505
+msgid "After Review Order Total"
+msgstr "Después de la revisión Total del pedido"
+
+#: includes/class-integ-sendy-checkout.php:509
+msgid "After Review Payment"
+msgstr "Después de la revisión Pago"
+
+#: includes/class-integ-sendy-checkout.php:503
+msgid "After Review Shipping"
+msgstr "Después de la revisión Envío"
+
+#: includes/class-integ-sendy-checkout.php:508
+msgid "After Review Submit"
+msgstr "Después de la revisión Enviar"
+
+#: includes/class-integ-sendy-checkout.php:495
+msgid "After Shipping Form"
+msgstr "Después del envío"
+
+#: includes/class-integ-sendy-checkout.php:492
+msgid "Before Billing Form"
+msgstr "Antes de la facturación"
+
+#: includes/class-integ-sendy-checkout.php:490
+msgid "Before Checkout Form"
+msgstr "Antes de pagar"
+
+#: includes/class-integ-sendy-checkout.php:491
+msgid "Before Customer Details"
+msgstr "Antes de los datos del cliente"
+
+#: includes/class-integ-sendy-checkout.php:496
+msgid "Before Order Notes"
+msgstr "Antes del pedido Notas"
+
+#: includes/class-integ-sendy-checkout.php:499
+msgid "Before Order Review"
+msgstr "Antes de la revisión del pedido"
+
+#: includes/class-integ-sendy-checkout.php:481
+msgid "Before Order Table"
+msgstr "Antes del pedido"
+
+#: includes/class-integ-sendy-checkout.php:500
+msgid "Before Review Cart Contents"
+msgstr "Antes de revisar el contenido del carro"
+
+#: includes/class-integ-sendy-checkout.php:504
+msgid "Before Review Order Total"
+msgstr "Antes de la revisión Total del pedido"
+
+#: includes/class-integ-sendy-checkout.php:506
+msgid "Before Review Payment"
+msgstr "Antes de la revisión Pago"
+
+#: includes/class-integ-sendy-checkout.php:502
+msgid "Before Review Shipping"
+msgstr "Antes de la revisión Envío"
+
+#: includes/class-integ-sendy-checkout.php:507
+msgid "Before Review Submit"
+msgstr "Antes de la revisión Enviar"
+
+#: includes/class-integ-sendy-checkout.php:494
+msgid "Before Shipping Form"
+msgstr "Formulario antes del envío"
+
+#: includes/class-integ-sendy-checkout.php:181
+msgid "Checkbox Label (1)"
+msgstr "Etiqueta de casilla de verificación (1)"
+
+#: includes/class-integ-sendy-checkout.php:282
+#: includes/class-integ-sendy-checkout.php:346
+#: includes/class-integ-sendy-checkout.php:409
+#: includes/class-integ-sendy-checkout.php:471
+msgid "Checkbox shown on checkout page"
+msgstr "Casilla de verificación en la página de pago"
+
+#: includes/class-integ-sendy-checkout.php:185
+msgid "Checkbox shown on checkout page, after Terms&Conditions"
+msgstr ""
+"Casilla de verificación en la página de pago, después de Términos y "
+"Condiciones"
+
+#: includes/class-integ-sendy-checkout.php:278
+msgid "Checkout Checkbox Label (2)"
+msgstr "Checkout Checkbox Label (2)"
+
+#: includes/class-integ-sendy-checkout.php:342
+msgid "Checkout Checkbox Label (3)"
+msgstr "Etiqueta de casilla de verificación de pago (3)"
+
+#: includes/class-integ-sendy-checkout.php:405
+msgid "Checkout Checkbox Label (4)"
+msgstr "Checkout Checkbox Label (4)"
+
+#: includes/class-integ-sendy-checkout.php:467
+msgid "Checkout Checkbox Label (5)"
+msgstr "Checkout Checkbox Label (5)"
+
+#. Author of the plugin
+msgid "dan009"
+msgstr "dan009"
+
+#: includes/class-integ-sendy-checkout.php:173
+msgid "Default Checkbox Value (1)"
+msgstr "Valor predeterminado de la casilla de verificación (1)"
+
+#: includes/class-integ-sendy-checkout.php:270
+msgid "Default Checkbox Value (2)"
+msgstr "Valor predeterminado de la casilla de verificación (2)"
+
+#: includes/class-integ-sendy-checkout.php:334
+msgid "Default Checkbox Value (3)"
+msgstr "Valor predeterminado de la casilla de verificación (3)"
+
+#: includes/class-integ-sendy-checkout.php:397
+msgid "Default Checkbox Value (4)"
+msgstr "Valor predeterminado de la casilla de verificación (4)"
+
+#: includes/class-integ-sendy-checkout.php:459
+msgid "Default Checkbox Value (5)"
+msgstr "Valor predeterminado de la casilla de verificación (5)"
+
+#: includes/class-integ-sendy-checkout.php:480
+msgid "Do not show in email"
+msgstr "No mostrar en el correo electrónico"
+
+#. URI of the plugin
+msgid "http://tuskcode.com"
+msgstr "http://tuskcode.com"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/dan009/"
+msgstr "https://profiles.wordpress.org/dan009/"
+
+#: includes/class-integ-sendy-checkout.php:202
+msgid "License number provided when buying the premium"
+msgstr "Número de licencia facilitado al comprar la prima"
+
+#: includes/class-integ-sendy-checkout.php:379
+#: includes/class-integ-sendy-checkout.php:441
+msgid "List Four"
+msgstr "Lista cuatro"
+
+#: includes/class-integ-sendy-checkout.php:316
+msgid "List Three"
+msgstr "Lista tres"
+
+#: includes/class-integ-sendy-checkout.php:252
+msgid "List Two"
+msgstr "Lista dos"
+
+#: includes/class-integ-sendy-checkout.php:82
+#: includes/class-integ-sendy-checkout.php:96
+msgid "Plugin Additional Links"
+msgstr "Plugin Enlaces adicionales"
+
+#: includes/class-integ-sendy-checkout.php:161
+msgid "Position at Checkout Page (1)"
+msgstr "Posición en la página de pago (1)"
+
+#: includes/class-integ-sendy-checkout.php:258
+msgid "Position at Checkout Page (2)"
+msgstr "Posición en la página de pago (2)"
+
+#: includes/class-integ-sendy-checkout.php:322
+msgid "Position at Checkout Page (3)"
+msgstr "Posición en la página de pago (3)"
+
+#: includes/class-integ-sendy-checkout.php:385
+msgid "Position at Checkout Page (4)"
+msgstr "Posición en la página de pago (4)"
+
+#: includes/class-integ-sendy-checkout.php:447
+msgid "Position at Checkout Page (5)"
+msgstr "Posición en la página de pago (5)"
+
+#: includes/class-integ-sendy-checkout.php:190
+#, php-format
+msgid "Premium at %s"
+msgstr "Prima en %s"
+
+#: includes/class-integ-sendy-checkout.php:452
+msgid ""
+"Select where you want the checkbox to show at the checkout page,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tIf your theme is overriding the WooCommerce "
+"templates then it's\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tpossible that these hooks could be missing, or "
+"placed in a slightly different position.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"Selecciona dónde quieres que se muestre la casilla en la página de pago,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tSi tu tema está sobreescribiendo las plantillas de "
+"WooCommerce entonces es\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tposible que estos ganchos podrían faltar, o "
+"colocado en una posición ligeramente diferente.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+
+#: includes/class-integ-sendy-checkout.php:166
+#: includes/class-integ-sendy-checkout.php:263
+#: includes/class-integ-sendy-checkout.php:327
+#: includes/class-integ-sendy-checkout.php:390
+msgid ""
+"Select where you want the checkbox to show at the checkout page,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tIf your theme is overriding the WooCommerce "
+"templates then it's\n"
+"\t\t\t\t\t\t \t\t\t\t\t\tpossible that these hooks could be missing, or "
+"placed in a slightly different position.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"Selecciona dónde quieres que se muestre la casilla en la página de pago,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tSi tu tema está sobreescribiendo las plantillas de "
+"WooCommerce entonces es\n"
+"\t\t\t\t\t\t \t\t\t\t\t\tposible que estos ganchos podrían faltar, o "
+"colocado en una posición ligeramente diferente.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+
+#: includes/class-integ-sendy-checkout.php:125
+msgid "Sendy API Key"
+msgstr "Clave API de Sendy"
+
+#: includes/class-integ-sendy-checkout.php:152
+msgid "Sendy List ID 1 (As in Sendy)"
+msgstr "Sendy Lista ID 1 (Como en Sendy)"
+
+#: includes/class-integ-sendy-checkout.php:242
+msgid "Sendy List ID 2"
+msgstr "Sendy Lista ID 2"
+
+#: includes/class-integ-sendy-checkout.php:306
+msgid "Sendy List ID 3"
+msgstr "Sendy Lista ID 3"
+
+#: includes/class-integ-sendy-checkout.php:369
+msgid "Sendy List ID 4"
+msgstr "Sendy Lista ID 4"
+
+#: includes/class-integ-sendy-checkout.php:431
+msgid "Sendy List ID 5"
+msgstr "Sendy Lista ID 5"
+
+#: includes/class-integ-sendy-checkout.php:250
+msgid "Sendy List Name - Admin (2)"
+msgstr "Nombre de la lista Sendy - Admin (2)"
+
+#: includes/class-integ-sendy-checkout.php:314
+msgid "Sendy List Name - Admin (3)"
+msgstr "Nombre de la lista Sendy - Admin (3)"
+
+#: includes/class-integ-sendy-checkout.php:377
+msgid "Sendy List Name - Admin (4)"
+msgstr "Nombre de la lista Sendy - Admin (4)"
+
+#: includes/class-integ-sendy-checkout.php:439
+msgid "Sendy List Name - Admin (5)"
+msgstr "Nombre de la lista Sendy - Admin (5)"
+
+#: includes/class-integ-sendy-checkout.php:254
+#: includes/class-integ-sendy-checkout.php:318
+#: includes/class-integ-sendy-checkout.php:381
+#: includes/class-integ-sendy-checkout.php:443
+msgid "Sendy List Name for Wordpress Reference "
+msgstr "Sendy Nombre de la lista de referencia para Wordpress"
+
+#: includes/class-integ-sendy-checkout.php:116
+msgid "Sendy URL"
+msgstr "URL de Sendy"
+
+#: includes/class-integ-sendy-checkout.php:83
+#: includes/class-integ-sendy-checkout.php:97
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/class-integ-sendy-checkout.php:211
+msgid ""
+"Show checked options in the email for customer records\n"
+"\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"Mostrar las opciones marcadas en el correo electrónico para los registros de "
+"clientes\n"
+"\t\t\t\t\t\t\t\t\t\t"
+
+#: includes/class-integ-sendy-checkout.php:220
+msgid ""
+"Show options in the thank you page in the same format as in the email "
+"template"
+msgstr ""
+"Mostrar opciones en la página de agradecimiento en el mismo formato que en "
+"la plantilla de correo electrónico"
+
+#: includes/class-integ-sendy-checkout.php:206
+msgid ""
+"Show Selected / Unselected Options in Customer Order Email - *** PREMIUM ***"
+msgstr ""
+"Mostrar opciones seleccionadas / no seleccionadas en el email de pedido del "
+"cliente - *** PREMIUM ***"
+
+#: includes/class-integ-sendy-checkout.php:216
+msgid ""
+"Show the selected / unselected options in the Thank You page - *** PREMIUM "
+"***"
+msgstr ""
+"Mostrar las opciones seleccionadas / no seleccionadas en la página de "
+"agradecimiento - *** PREMIUM ***"
+
+#. Description of the plugin
+msgid "Subscribe users to Sendy list from Woocommerce Checkout page"
+msgstr ""
+"Suscribir usuarios a la lista Sendy desde la página de pago de Woocommerce"
+
+#: includes/class-integ-sendy-checkout.php:18
+msgid "Subscribe users to Sendy Newsletter from Woo Checkout Page"
+msgstr "Suscribir usuarios a Sendy Newsletter desde Woo Checkout Page"
+
+#: includes/class-integ-sendy-checkout.php:198
+msgid "Tuskcode License for Premium"
+msgstr "Licencia Tuskcode para Premium"
+
+#. Name of the plugin
+#: includes/class-integ-sendy-checkout.php:17
+msgid "TuskCode's Checkout for Sendy on WooCommerce"
+msgstr "TuskCode's Checkout para Sendy en WooCommerce"
+
+#: includes/class-integ-sendy-checkout.php:118
+msgid "URL of your Sendy installation"
+msgstr "URL de su instalación Sendy"
+
+#: includes/class-integ-sendy-checkout.php:146
+#: includes/class-integ-sendy-checkout.php:218
+#: includes/class-integ-sendy-checkout.php:236
+#: includes/class-integ-sendy-checkout.php:300
+#: includes/class-integ-sendy-checkout.php:363
+#: includes/class-integ-sendy-checkout.php:425
+msgid "Yes / No"
+msgstr "Sí / No"

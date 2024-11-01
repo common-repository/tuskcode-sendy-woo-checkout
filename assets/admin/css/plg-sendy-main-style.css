@@ -1,0 +1,10 @@
+
+td.forminp label[for='woocommerce_integ-sendy-woo-checkout_sendy_checkbox_default__label_hide'],
+td.forminp label[for='woocommerce_integ-sendy-woo-checkout_sendy_checkbox_default__label_hide_one'],
+td.forminp label[for='woocommerce_integ-sendy-woo-checkout_sendy_checkbox_default__label_hide_two'],
+td.forminp label[for='woocommerce_integ-sendy-woo-checkout_sendy_checkbox_default__label_hide_three'],
+td.forminp label[for='woocommerce_integ-sendy-woo-checkout_sendy_checkbox_default__label_hide_four'],
+td.forminp label[for='woocommerce_integ-sendy-woo-checkout_sendy_checkbox_default__label_hide_five']
+{
+    display: none !important;
+}

@@ -1,0 +1,423 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TuskCode's Checkout for Sendy on WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-07 20:12+0000\n"
+"PO-Revision-Date: 2023-02-07 20:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: tuskcode-sendy-woo-checkout"
+
+#: includes/class-integ-sendy-checkout.php:136
+msgid "1 FREE"
+msgstr "1 免费"
+
+#: includes/class-integ-sendy-checkout.php:226
+msgid "2 PREMIUM"
+msgstr "2 高级"
+
+#: includes/class-integ-sendy-checkout.php:290
+msgid "3 PREMIUM"
+msgstr "3 高级"
+
+#: includes/class-integ-sendy-checkout.php:353
+msgid "4 PREMIUM"
+msgstr "4 高级"
+
+#: includes/class-integ-sendy-checkout.php:415
+msgid "5 PREMIUM"
+msgstr "5 高级"
+
+#: includes/class-integ-sendy-checkout.php:144
+msgid "Active List 1 "
+msgstr "活跃名单1"
+
+#: includes/class-integ-sendy-checkout.php:234
+msgid "Active List 2 (Premium)"
+msgstr "活跃名单2（高级）"
+
+#: includes/class-integ-sendy-checkout.php:298
+msgid "Active List 3 (Premium)"
+msgstr "活跃名单3（高级）"
+
+#: includes/class-integ-sendy-checkout.php:361
+msgid "Active List 4 (Premium)"
+msgstr "活跃名单4（高级）"
+
+#: includes/class-integ-sendy-checkout.php:423
+msgid "Active List 5 (Premium)"
+msgstr "活跃名单5（高级）"
+
+#: includes/class-integ-sendy-checkout.php:156
+#: includes/class-integ-sendy-checkout.php:246
+#: includes/class-integ-sendy-checkout.php:310
+#: includes/class-integ-sendy-checkout.php:373
+msgid "Add ID of your Sendy list"
+msgstr "添加您的Sendy名单的ID"
+
+#: includes/class-integ-sendy-checkout.php:435
+msgid "Add ID of your Sendy list (5)"
+msgstr "添加你的Sendy名单的ID (5)"
+
+#: includes/class-integ-sendy-checkout.php:130
+msgid "Add your Sendy API Key"
+msgstr "添加您的Sendy API密钥"
+
+#: includes/class-integ-sendy-checkout.php:493
+msgid "After Billing Form"
+msgstr "结账后的表格"
+
+#: includes/class-integ-sendy-checkout.php:511
+msgid "After Checkout Form"
+msgstr "结账后表格"
+
+#: includes/class-integ-sendy-checkout.php:498
+msgid "After Customer Details"
+msgstr "客户资料后"
+
+#: includes/class-integ-sendy-checkout.php:497
+msgid "After Order Notes"
+msgstr "订购后注意事项"
+
+#: includes/class-integ-sendy-checkout.php:510
+msgid "After Order Review"
+msgstr "订单审查后"
+
+#: includes/class-integ-sendy-checkout.php:482
+msgid "After Order Table"
+msgstr "订购后表"
+
+#: includes/class-integ-sendy-checkout.php:501
+msgid "After Review Cart Contents"
+msgstr "审查后的购物车内容"
+
+#: includes/class-integ-sendy-checkout.php:505
+msgid "After Review Order Total"
+msgstr "审查后的订单总数"
+
+#: includes/class-integ-sendy-checkout.php:509
+msgid "After Review Payment"
+msgstr "审查后付款"
+
+#: includes/class-integ-sendy-checkout.php:503
+msgid "After Review Shipping"
+msgstr "审查后发货"
+
+#: includes/class-integ-sendy-checkout.php:508
+msgid "After Review Submit"
+msgstr "审查后提交"
+
+#: includes/class-integ-sendy-checkout.php:495
+msgid "After Shipping Form"
+msgstr "发货后表格"
+
+#: includes/class-integ-sendy-checkout.php:492
+msgid "Before Billing Form"
+msgstr "开票前的表格"
+
+#: includes/class-integ-sendy-checkout.php:490
+msgid "Before Checkout Form"
+msgstr "结账前表格"
+
+#: includes/class-integ-sendy-checkout.php:491
+msgid "Before Customer Details"
+msgstr "客户资料前"
+
+#: includes/class-integ-sendy-checkout.php:496
+msgid "Before Order Notes"
+msgstr "订购前注意事项"
+
+#: includes/class-integ-sendy-checkout.php:499
+msgid "Before Order Review"
+msgstr "订单审查前"
+
+#: includes/class-integ-sendy-checkout.php:481
+msgid "Before Order Table"
+msgstr "订购前表"
+
+#: includes/class-integ-sendy-checkout.php:500
+msgid "Before Review Cart Contents"
+msgstr "审查购物车内容之前"
+
+#: includes/class-integ-sendy-checkout.php:504
+msgid "Before Review Order Total"
+msgstr "审查前订单总数"
+
+#: includes/class-integ-sendy-checkout.php:506
+msgid "Before Review Payment"
+msgstr "审查付款前"
+
+#: includes/class-integ-sendy-checkout.php:502
+msgid "Before Review Shipping"
+msgstr "审阅发货前"
+
+#: includes/class-integ-sendy-checkout.php:507
+msgid "Before Review Submit"
+msgstr "审查前提交"
+
+#: includes/class-integ-sendy-checkout.php:494
+msgid "Before Shipping Form"
+msgstr "发货前表格"
+
+#: includes/class-integ-sendy-checkout.php:181
+msgid "Checkbox Label (1)"
+msgstr "复选框标签 (1)"
+
+#: includes/class-integ-sendy-checkout.php:282
+#: includes/class-integ-sendy-checkout.php:346
+#: includes/class-integ-sendy-checkout.php:409
+#: includes/class-integ-sendy-checkout.php:471
+msgid "Checkbox shown on checkout page"
+msgstr "结账页上显示的复选框"
+
+#: includes/class-integ-sendy-checkout.php:185
+msgid "Checkbox shown on checkout page, after Terms&Conditions"
+msgstr "在结账页上显示的复选框，在条款和条件之后"
+
+#: includes/class-integ-sendy-checkout.php:278
+msgid "Checkout Checkbox Label (2)"
+msgstr "结账复选框标签 (2)"
+
+#: includes/class-integ-sendy-checkout.php:342
+msgid "Checkout Checkbox Label (3)"
+msgstr "结账复选框标签 (3)"
+
+#: includes/class-integ-sendy-checkout.php:405
+msgid "Checkout Checkbox Label (4)"
+msgstr "结账复选框标签 (4)"
+
+#: includes/class-integ-sendy-checkout.php:467
+msgid "Checkout Checkbox Label (5)"
+msgstr "结账复选框标签 (5)"
+
+#. Author of the plugin
+msgid "dan009"
+msgstr "dan009"
+
+#: includes/class-integ-sendy-checkout.php:173
+msgid "Default Checkbox Value (1)"
+msgstr "默认复选框值 (1)"
+
+#: includes/class-integ-sendy-checkout.php:270
+msgid "Default Checkbox Value (2)"
+msgstr "默认复选框值 (2)"
+
+#: includes/class-integ-sendy-checkout.php:334
+msgid "Default Checkbox Value (3)"
+msgstr "默认复选框值 (3)"
+
+#: includes/class-integ-sendy-checkout.php:397
+msgid "Default Checkbox Value (4)"
+msgstr "默认复选框值 (4)"
+
+#: includes/class-integ-sendy-checkout.php:459
+msgid "Default Checkbox Value (5)"
+msgstr "默认复选框值 (5)"
+
+#: includes/class-integ-sendy-checkout.php:480
+msgid "Do not show in email"
+msgstr "不显示在电子邮件中"
+
+#. URI of the plugin
+msgid "http://tuskcode.com"
+msgstr "http://tuskcode.com"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/dan009/"
+msgstr "https://profiles.wordpress.org/dan009/"
+
+#: includes/class-integ-sendy-checkout.php:202
+msgid "License number provided when buying the premium"
+msgstr "购买保险时提供的许可证号码"
+
+#: includes/class-integ-sendy-checkout.php:379
+#: includes/class-integ-sendy-checkout.php:441
+msgid "List Four"
+msgstr "名单四"
+
+#: includes/class-integ-sendy-checkout.php:316
+msgid "List Three"
+msgstr "名单三"
+
+#: includes/class-integ-sendy-checkout.php:252
+msgid "List Two"
+msgstr "名单二"
+
+#: includes/class-integ-sendy-checkout.php:82
+#: includes/class-integ-sendy-checkout.php:96
+msgid "Plugin Additional Links"
+msgstr "插件附加链接"
+
+#: includes/class-integ-sendy-checkout.php:161
+msgid "Position at Checkout Page (1)"
+msgstr "结账页的位置 (1)"
+
+#: includes/class-integ-sendy-checkout.php:258
+msgid "Position at Checkout Page (2)"
+msgstr "结账页的位置 (2)"
+
+#: includes/class-integ-sendy-checkout.php:322
+msgid "Position at Checkout Page (3)"
+msgstr "结账页的位置 (3)"
+
+#: includes/class-integ-sendy-checkout.php:385
+msgid "Position at Checkout Page (4)"
+msgstr "结账页的位置 (4)"
+
+#: includes/class-integ-sendy-checkout.php:447
+msgid "Position at Checkout Page (5)"
+msgstr "结账页的位置 (5)"
+
+#: includes/class-integ-sendy-checkout.php:190
+#, php-format
+msgid "Premium at %s"
+msgstr "溢价率为%s"
+
+#: includes/class-integ-sendy-checkout.php:452
+msgid ""
+"Select where you want the checkbox to show at the checkout page,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tIf your theme is overriding the WooCommerce "
+"templates then it's\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tpossible that these hooks could be missing, or "
+"placed in a slightly different position.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"选择你想让复选框在结账页面显示的位置。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t如果你的主题覆盖了WooCommerce的模板，那么有可能这些钩子被遗漏了，或者被放置在不同的位置。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t这些钩子有可能被遗漏，或者被放置在一个稍微不同的位置。\n"
+"\t\t\t\t\t\t\t\t\t\t"
+
+#: includes/class-integ-sendy-checkout.php:166
+#: includes/class-integ-sendy-checkout.php:263
+#: includes/class-integ-sendy-checkout.php:327
+#: includes/class-integ-sendy-checkout.php:390
+msgid ""
+"Select where you want the checkbox to show at the checkout page,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\tIf your theme is overriding the WooCommerce "
+"templates then it's\n"
+"\t\t\t\t\t\t \t\t\t\t\t\tpossible that these hooks could be missing, or "
+"placed in a slightly different position.\n"
+"\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"选择你想让复选框在结账页面显示的位置。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t如果你的主题覆盖了WooCommerce的模板，那么有可能这些钩子被遗漏了，或者被放置在不同的位置。\n"
+"\t\t\t\t\t\t \t\t\t\t\t\t这些钩子有可能被遗漏，或者被放置在一个稍微不同的位置。\n"
+"\t\t\t\t\t\t\t\t\t\t"
+
+#: includes/class-integ-sendy-checkout.php:125
+msgid "Sendy API Key"
+msgstr "Sendy API密钥"
+
+#: includes/class-integ-sendy-checkout.php:152
+msgid "Sendy List ID 1 (As in Sendy)"
+msgstr "森迪名单ID1（如森迪）。"
+
+#: includes/class-integ-sendy-checkout.php:242
+msgid "Sendy List ID 2"
+msgstr "森迪清单ID 2"
+
+#: includes/class-integ-sendy-checkout.php:306
+msgid "Sendy List ID 3"
+msgstr "森迪清单ID 3"
+
+#: includes/class-integ-sendy-checkout.php:369
+msgid "Sendy List ID 4"
+msgstr "森迪名单ID 4"
+
+#: includes/class-integ-sendy-checkout.php:431
+msgid "Sendy List ID 5"
+msgstr "森迪清单ID 5"
+
+#: includes/class-integ-sendy-checkout.php:250
+msgid "Sendy List Name - Admin (2)"
+msgstr "森迪名单名称 - 管理员 (2)"
+
+#: includes/class-integ-sendy-checkout.php:314
+msgid "Sendy List Name - Admin (3)"
+msgstr "森迪名单名称 - 管理员 (3)"
+
+#: includes/class-integ-sendy-checkout.php:377
+msgid "Sendy List Name - Admin (4)"
+msgstr "森迪名单名称 - 管理员 (4)"
+
+#: includes/class-integ-sendy-checkout.php:439
+msgid "Sendy List Name - Admin (5)"
+msgstr "森迪名单名称 - 管理员 (5)"
+
+#: includes/class-integ-sendy-checkout.php:254
+#: includes/class-integ-sendy-checkout.php:318
+#: includes/class-integ-sendy-checkout.php:381
+#: includes/class-integ-sendy-checkout.php:443
+msgid "Sendy List Name for Wordpress Reference "
+msgstr "用于Wordpress参考的Sendy列表名称"
+
+#: includes/class-integ-sendy-checkout.php:116
+msgid "Sendy URL"
+msgstr "森迪网址"
+
+#: includes/class-integ-sendy-checkout.php:83
+#: includes/class-integ-sendy-checkout.php:97
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-integ-sendy-checkout.php:211
+msgid ""
+"Show checked options in the email for customer records\n"
+"\t\t\t\t\t\t\t\t\t\t"
+msgstr ""
+"在客户记录的电子邮件中显示选中的选项\n"
+"\t\t\t\t\t\t\t\t\t\t"
+
+#: includes/class-integ-sendy-checkout.php:220
+msgid ""
+"Show options in the thank you page in the same format as in the email "
+"template"
+msgstr "在感谢页面中以与电子邮件模板中相同的格式显示选项"
+
+#: includes/class-integ-sendy-checkout.php:206
+msgid ""
+"Show Selected / Unselected Options in Customer Order Email - *** PREMIUM ***"
+msgstr "在客户订单邮件中显示选择/未选择的选项 - *** 高级 ***"
+
+#: includes/class-integ-sendy-checkout.php:216
+msgid ""
+"Show the selected / unselected options in the Thank You page - *** PREMIUM "
+"***"
+msgstr "在 \"感谢 \"页面显示已选择/未选择的选项 - ***高级 ***"
+
+#. Description of the plugin
+msgid "Subscribe users to Sendy list from Woocommerce Checkout page"
+msgstr "从Woocommerce结账页面订阅用户到Sendy列表"
+
+#: includes/class-integ-sendy-checkout.php:18
+msgid "Subscribe users to Sendy Newsletter from Woo Checkout Page"
+msgstr "在Woo结账页面上为用户订阅Sendy的电子报"
+
+#: includes/class-integ-sendy-checkout.php:198
+msgid "Tuskcode License for Premium"
+msgstr "Tuskcode高级版的许可证"
+
+#. Name of the plugin
+#: includes/class-integ-sendy-checkout.php:17
+msgid "TuskCode's Checkout for Sendy on WooCommerce"
+msgstr "TuskCode在WooCommerce上为Sendy结账"
+
+#: includes/class-integ-sendy-checkout.php:118
+msgid "URL of your Sendy installation"
+msgstr "您的 \"森迪 \"安装的URL"
+
+#: includes/class-integ-sendy-checkout.php:146
+#: includes/class-integ-sendy-checkout.php:218
+#: includes/class-integ-sendy-checkout.php:236
+#: includes/class-integ-sendy-checkout.php:300
+#: includes/class-integ-sendy-checkout.php:363
+#: includes/class-integ-sendy-checkout.php:425
+msgid "Yes / No"
+msgstr "是/否"
